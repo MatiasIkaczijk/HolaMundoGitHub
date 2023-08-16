@@ -7,3 +7,4 @@ mates con amigos y el gym, entre otros
 Agregamos unas lineas mas de codigo y cap
 
 Agregamos otra modificacion pero desde la main
+Comenzamos el segundo cuatrimestre, realizando actividades
